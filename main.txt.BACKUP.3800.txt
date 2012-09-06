@@ -1,0 +1,13 @@
+Hi, this is your Git file.  Answer the following:
+
+<<<<<<< HEAD
+1. My name is : Cora
+2. My teammates names are: Craig and Matt
+3. My favorite programming language is : Python
+=======
+1. My name is : Craig Weir
+2. My teammates names are: Cora, Matt
+3. My favorite programming language is : Java
+>>>>>>> c02f3524398bb086644c72280f8f252eb0148de7
+4. The name of my semester long mobile application is :
+
