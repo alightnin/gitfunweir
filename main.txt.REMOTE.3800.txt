@@ -1,0 +1,7 @@
+Hi, this is your Git file.  Answer the following:
+
+1. My name is : Craig Weir
+2. My teammates names are: Cora, Matt
+3. My favorite programming language is : Java
+4. The name of my semester long mobile application is :
+
