@@ -2,8 +2,12 @@ Hi, this is your Git file.  Answer the following:
 
 1. My name is : Craig Weir
 1. My name is :Matt Puntenney
-1. My name is : Cora 
+1. My name is : Cora
+<<<<<<< HEAD
+**adding a change here to test merge. cc"
+=======
 2. My teammates names are: Cora, Craig
+>>>>>>> 36d9001417ad7b1e9b4aaee0c5b9bdf7a645c1f5
 2. My teammates names are: Cora, Matt
 2. My teammates names are: Craig and Matt
 3. My favorite programming language is : Java
@@ -11,6 +15,4 @@ Hi, this is your Git file.  Answer the following:
 4. The name of my semester long mobile application is :
 4. The name of my semester long mobile application is :
 
-
-Phase 1:  With a group of more than 2 this method would be very time consuming, meaning every time a person pushes their changes up to git hub a merge has to be done if it wasn't the first one pushed. However it does allow to check changes against each other if multiple people are working on the same project.
 
