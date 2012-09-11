@@ -14,3 +14,4 @@ Hi, this is your Git file.  Answer the following:
 
 Phase 1:  With a group of more than 2 this method would be very time consuming, meaning every time a person pushes their changes up to git hub a merge has to be done if it wasn't the first one pushed. However it does allow to check changes against each other if multiple people are working on the same project.
 
+professionals.jpg
