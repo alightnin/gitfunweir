@@ -1,0 +1,20 @@
+Hi, this is your Git file.  Answer the following:
+
+1. My name is : Craig Weir
+1. My name is :Matt Puntenney
+1. My name is : Cora 
+2. My teammates names are: Cora, Craig
+2. My teammates names are: Cora, Matt
+2. My teammates names are: Craig and Matt
+3. My favorite programming language is : Java
+3. My favorite programming language is : Python
+4. The name of my semester long mobile application is :
+4. The name of my semester long mobile application is :
+
+
+Phase 1:  With a group of more than 2 this method would be very time consuming, meaning every time a person pushes their changes up to git hub a merge has to be done if it wasn't the first one pushed. However it does allow to check changes against each other if multiple people are working on the same project.
+
+professionals.jpg
+My image name is funny.jpgMy image is named image.png
+
+Phase 2: OMG OMG OMG, Our group hated this Phase, partially because of our idiot team leader with no merge tool. However in the long run we ended up getting the pull requests manually merged by Cora. We feel that this workflow creates a lot of merging.  The .gitignore file should include files that don't need to be tracked.
