@@ -11,12 +11,16 @@ Hi, this is your Git file.  Answer the following:
 4. The name of my semester long mobile application is :
 4. The name of my semester long mobile application is :
 
+THIS IS CORA AND MATT CHECKING IN.  WE MADE THIS CHANGE ON 9/12/12.
+
 
 Phase 1:  With a group of more than 2 this method would be very time consuming, meaning every time a person pushes their changes up to git hub a merge has to be done if it wasn't the first one pushed. However it does allow to check changes against each other if multiple people are working on the same project.
 
 <<<<<<< HEAD
 professionals.jpg
-My image is named image.png
+My image name is funny.jpgMy image is named image.png
+
+Phase 2: OMG OMG OMG, Our group hated this Phase, partially because of our idiot team leader with no merge tool. However in the long run we ended up getting the pull requests manually merged by Cora. We feel that this workflow creates a lot of merging.  The .gitignore file should include files that don't need to be tracked.
 =======
-My image name is funny.jpg
->>>>>>> 1395b4f0c572e1cfd527daed89e3421dff1e6950
+professionals.jpg
+>>>>>>> 32e76005641ffb1375ffcddb09407ad49f9385c9
