@@ -1,10 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
 #add images folder to gitignore file
+>>>>>>> 92cde340e3977489d3e055080324d45fa2b4d6be
 =======
-#gitfile for ignoring files
->>>>>>> 32e76005641ffb1375ffcddb09407ad49f9385c9
-=======
-#Add images folder to .gitignore file
->>>>>>> ceac45047a4cae4660c86d5d8afc93b32ac0544a
 images/
